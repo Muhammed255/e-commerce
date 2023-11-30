@@ -1,0 +1,36 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "build and eceommerce app with Nodejs, Angular, Monogodb, Express, NX and Ng-Prime",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammed255/e-commerce.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Mongodb",
+    "Express",
+    "Angular",
+    "NX",
+    "Ng-Prime"
+  ],
+  "author": "Mohamed Abdelazim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammed255/e-commerce/issues"
+  },
+  "homepage": "https://github.com/Muhammed255/e-commerce#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1"
+  }
+}
