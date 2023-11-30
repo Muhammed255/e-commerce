@@ -15,3 +15,5 @@ We welcome any and all contributions! Here are some ways you can get started:
 3. Add your contributions (code or documentation)
 4. Commit and push
 5. Wait for pull request to be merged
+
+[MIT](https://choosealicense.com/licenses/mit/)
